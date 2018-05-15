@@ -1,0 +1,46 @@
+body{
+  background-color:#6cb1a9;
+}
+h1{
+  text-align:center;
+  color:white;
+  font-size:350%
+}
+#box{
+  display:flex;
+  padding:20px;
+  margin: 6% 15% 0 15%;
+  background-color:white;
+  border-radius:9px;
+  font-family: 'Berkshire Swash', cursive;
+}
+P{
+  color:#6cb1a9;
+  font-size:150%;
+}
+#btn{
+  color:white;
+  text-decoration:none;
+  padding:5px;
+  font-size:125%;
+  border:3px white solid;
+  border-radius:10px;
+  
+}
+#tweet{
+  font-size:150%;
+  text-decoration:none;
+  padding: 2px;
+  color:white;
+  border:3px white solid;
+  border-radius:10px;
+}
+#btns{
+  text-align:center;
+  margin-top:5%;
+}
+h4{
+  text-align:center;
+  color:white;
+  margin-top:8%;
+}
