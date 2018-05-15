@@ -1,1 +1,1 @@
-# Javascript calculator
+# Quote Machine
